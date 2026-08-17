@@ -18,7 +18,7 @@
 // set our ESPNOW channel
 const uint8_t ESPNOW_CHANNEL = 1;
 
-// kenneth's MAC .. his ESPMAC
+// replace with existiing MAC ADDRESS
 uint8_t CAR_MAC[6] = { 0x98, 0xA3, 0x16, 0x7E, 0x70, 0x78 };
 
 // packet struct
